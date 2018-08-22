@@ -1,1 +1,1 @@
-# Psychic-Game
+This is a game in which the computer chooses a letter at random and the user tries to guess what that letter is. The user will have 9 guesses. The page will display the number of guesses remaining, the total number of wins and losses and the letters the user has already chosen. 
